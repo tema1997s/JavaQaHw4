@@ -1,4 +1,4 @@
-package ru.netology.javaqa;
+package ru.netology.javaqa.services;
 
 public class BonusService {
     public long calculate(long amount, boolean registered) {
